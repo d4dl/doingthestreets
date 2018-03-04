@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/7e9b6622dc4cd00a03b34941a4498bc3ce5f7124/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_82d29744c06be1beba28d5369e438e84832b3ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/aef1b3f140c0c946fc29f5293b3fe4fabeaec83d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_f9af4e9036e03a05272af716d829b90504ed6e84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/d1890c4233fb40ed910968f375b9ef74b6de0bac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4cc1ed2a4a3b663266efb2187f37a2822be75f4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.53.0.0/619f704791db186304325bd129b2e7ec34f77438/core-1.53.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="619f704791db186304325bd129b2e7ec34f77438">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/core-1.53.0.0_f1b362d5cd7b5db6463937bd240971a42947ace4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/6879988ded526b1a4ffb0313c2290f85aa3bd22a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_91d1bd2890e8c41324dd86a1b54959abe8e99d6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/butterknife-7.0.1_3fa35227aa148cb5790d55cc310da77040e451f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/b8498e4453d0fc74d5d8e1a7330c895a0fbcc651/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_5d316e47a424f74c5302afd1daa39ba21526c59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/9b40361a6662e25d6162a85455319aaff4e23c1c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6172a6e0872c156ae82fe8b51d82b2daed424aa">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_9b65ead4711116f29f6b806f59b0ec170a590d42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/f9d92b63ec0afaf92c481ce53f7bc6f98ea214e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae2154348a4c38a18e8d1042cf445faea4647d0">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ca9df12dc078c7e751beb07fc0814d5618f2cd35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/3e6e8de9c2cc11170050c7bd6476e4fc5e5c09be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_91be35fad752b52fa7c94075245bb7813ff8c373/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/e6abd4644b5750156e33af018de49ea081803612/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ac776105209a7515fde8c291989357143d69a290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/96049d9cf576ea223f636a34e57ebf12034833a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_29ec6cc336dfe193e7e2a94fdda2606caa62ea91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.facebook.device.yearclass/yearclass/1.0.1/adfc67ed7e13d1648f20c2a5d6cb757ce43d9c22/yearclass-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adfc67ed7e13d1648f20c2a5d6cb757ce43d9c22">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/yearclass-1.0.1_a8e79326abc2d060afa5418763a6ae877b461f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/adb23bda18e8fd81776523590ac29ae0d7e6c475/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_b2ff1e8e7ac8430ce0009a7d956bdf052799de35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/bolts-tasks-1.4.0_eebe6a0d48ce3e1740dafe28ba8edf99589a7aa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/451fcee1ebc851e83a872dad27d3f7e1709b5fdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_0f3b93f8916fac31125bb9c44c1eb4afd4c0dc85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/e2f0c594680474067f4dd17359500d5e68946a6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6fa29c367368825c8918f3bde7c3fac79a3176a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/4ca09653c80a81a65cd28b074590fff9bd99336c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47803d3db7213b155bf0a1876ba920d29000abaa">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4027c5e43f8d78b01e9cf2706f69b0144d4b9b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/f718df0ada140b4ad773fbb9c784722370765d23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_9df4f86bb472998818136b7e19938bfd38077ec5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/c95d8a5ac5c8bc39cefe9874de95185dcad62bd0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_41538b414cd535fe377e3ae33ba889aafab336ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/07f1ff9b7383cc01a6a676e9baba71d131b28924/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f9558f8bf566536221101e576b5c398787cfcbc3">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_06f7ce45b9d114ffdfe1b7496abd8db30a06f1d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/b3263d1bdae85b72d8b92b1982ff6cd6ef5675d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af69623378285932372eb7b3b8ff0ef66fa42b93">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_f7add60b85e8ed0d5380d76d61eb98164c2894db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/7c65c8336889e34d285f18b96821a72bb759f7a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9af3b9b8114e685291aa00e6572b0a9131244956">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_2df816f2b4235c14faec0d5911c09bb7b2c07d53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/fa56db03b7f53acf266fe36e4df082e53683790a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a849e9e8124888c8dbb2d4b2bb5fbed4c6156f67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/1d8bc6fd1c199b90c4ca4eeaf7761779ffe9f881/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adfb92acadeeff1086115fff6b318e95df8b2b29">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8097e27c43223442358f79090074bbdb93c426a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/picasso-2.5.2_015816de48d6d7159449c45034efd19dcd2f3a00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/jsr305-3.0.0_3e8a1777c8b0ce261b37e65515b8f0c945ad718b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/fc22d404474422510fb329cf5f28192274782cd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_2939bea023c82af3b84f9cdc6dcdba579db0f920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/f38feebc9b1c6bf84d21befa7edd0d969f88c21e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f1cc63c85dfeb86263311713a0810d23112495e">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a20a02ce20055a3044a4e3abd02b9cf71ce8d47d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/abae5217c81508b85e166f9d3c97bbc8862fd43f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_f2f8a0d8ee3628bb7720ea5b8159b69a6809d6fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/736a667800f09771001286cb27310e05023188d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_c452d59e315f86999e9914da7df1b27afba0436d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/e389a95b27f690b8e98b09b96d09e61478f28d18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="131115ec18ae3951c1584c543de8baa9ac20012a">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_3608c86c5cbbeb2480c66f92064d45a49e185925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/universal-image-loader-1.9.5_3434c56f78ac986f14573fa9bea5f148c474f85d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/387074cec944d96ed0414f468ebeaee6e9613d8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ce96b68ee4b624a5bc405f5264590f27831ca927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/core-3.3.0_673367d1d33a838d2a271b912b458941608d2080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.raizlabs.android/DBFlow-Core/2.2.1/e07bfc8e2041edf27469bd94e08bc19f52f4dee7/DBFlow-Core-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e07bfc8e2041edf27469bd94e08bc19f52f4dee7">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/DBFlow-Core-2.2.1_445119dceb1d7db3483b5bdf909eaa4ef76851a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/7fe1290480a0fe1361fd1b508c75e7094e22cff1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6c17413b0dd15fbf57c2564711a6728ecaad7f83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/incremental-runtime-classes/dev19/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run_770052a547686d99eb2ee37eed004de213ebb4f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/12b302b769f5d535355d1477d6c4350a12490da3/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82231c00c16c59ee23a508bec9fc6bc3e60c96b2">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_be3b4da9b1784f6cb71dfdeb3e80cb2ff0730d60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/52efc9de8ba7c5ec3e7f2cedc449a631955e5eae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_e7ba8adca05a19aad083e74368b9d416b8fd3e4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/6ed9d5ba3831ac5b9915877593a318e902a4934d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_63c5e69453b9de4972954db248e04f7762ca105e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/94a57f6d36ac30c6e821be21048807ab4d80fe8e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42a37372fca7123a593202ba76a7f98fbd691f05">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_516bfad36c4e109605855b51cab921e4e263d752/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/e7cfa03a2bf2aad4b4d4a2f9d0825c3f76e033e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffbd3e8e40ef62a454f4c3990aa70bbda3ffa596">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_82ba4aabb22dc5bb234aaff5dee1f6c8eeb9d788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/dc5f30a1bf4111ba45582c97800aa7dec1da6487/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53dc9d74b0ac22d201549cd806780597d9679e9a">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_d46365f68f80dc674ce7fa4e8a9d2c41db2a169b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/support-annotations-26.0.1_927ff115fe1fecb3aba3113ac688d5164947dd0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/880d4906f21fb4fd23e526f3257203521feb69eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6ab9a3309a513c66747b4d379889a15f9a2f7f76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/8150bf9641ea87d780c390e57598f5087d0375d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_12a7964dcfb16ff9d621ff18ff9cf0255d4e4a88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/25c2126c09a66b80eac9d99dc601c7d75374ba94/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a2f9209ff0d33539df6866d019181ecd1ecd047">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_bb766aac80714884938f6a09a056399788e07246/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/incremental-classes/dev19/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6d40fb6ed74a5749d7b049fb335b147a28af402">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10000/instant-run-bootstrap_1276172538cf216c1d99d5a663bc7116361d9122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/f5e1213fb7549cd0345cfd83c474e3e4af917e3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_e6ca3d47ad2e8a76e53daddbccca1a830b79ca25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/4ca09653c80a81a65cd28b074590fff9bd99336c/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edaed5c051302ba960315d8e3161935f3df40f65">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_4906eb38902ff68c244bdbd248231ba79f2ef69e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/dca118a62919deb64927d70176775853e2c0d1cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_3f2832092eafa7be4a73db24c05b4fa068b67526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/094134986ed7e9d0641060ced59bde29b9515d9f/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_91d793272250c878df6e332c1f4efd3e98edb550/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/6234f5f4235f698681299877d391befa3806cd2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a774607cf90ca991586347daa59ed0de0ad9cb49">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ba4d08831b239e6e8c948a2d2bb573f77855f0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/eventbus-2.4.0_9b82dcb12808c791de4d60f01b86bd69909c1b69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/staticlayout-proxy-1.0_f66fd78be5bbdd51205f8bd6a27c3f6b12c7c0c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/dev/doingthestreets/android/maven/expolib_v1/com/squareup/okhttp3/okhttp/3.6.0/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="565de69ddf97fffe074cba6cb0512520cdce4394">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-3.6.0_81e3b2e208a0167855a870b4e0d5ce742bfa0e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/3c5fd5eb036da2ebb2a7af772995564624aa49ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="765f07d2233e2e7f1f77fbae57361781a5a9c406">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_996b569fb9316c73bba4d6717ea4029bf616b5a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/58d0ce87d3bd752079775ef35f773cbd35eb8e4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_dafbb20add389ec4c81cb2aead40bf4b94e36e00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/433194f1122c0e9049c3125c276e966a3a9577d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_67c74d00c6cb066e266ed32bd152cd00430f5888/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/4750a2c37c83ba7b2b22ef1243f18e3680bec710/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7bf36963372211d8b9e000939020b1c3242234e">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_5186add1360e5b5ef4130342d674ba8228882736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/094134986ed7e9d0641060ced59bde29b9515d9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="20be4fc45af5a418fbbfb8d1040020b64b187885">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_0354030d2f875d168bc9ed2daa3750cfb6f5ff44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.3.1/c596b3b33b5a92107bb70544bb5ee35f597bc6d8/stetho-okhttp3-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/stetho-okhttp3-1.3.1_8edb13848303045c9566b6b6db538376ecc72c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/1068a081fff6c601a26a3445ac379fb9d536227e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6eb79bde4cf6bbb7573bcf7dfbaf8a313f57612e">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_0db79a4b51f2a75804737062859210dbcbae12ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/20afe616d15592339aa98999f5bd02b00d264d19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ad5bb101ced4d3939225c9b57e5a3d81547c1fbb">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_b693e357eb9097788f63ebb39dd6b04526ebde57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/a31bf06c013c4c7077aaab011f2681b4b41555a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c83a644dfc8545d77ed076721762fc4eb4092d81">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a0fae0d3eac85924c1382f45da173e2142b2df0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/d4133db6ef62f1dbb2dd1bc181413c2269b7c937/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_c1322f983f995320b876b8648915d7031d494ee7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/f38feebc9b1c6bf84d21befa7edd0d969f88c21e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea01f90e60978bc6871543cd76136a97a19450b5">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_90343c33762e2c3c84905d7be365d51fbd139a05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/31c318c66bf89a4b7f70e191090a76f9028ca693/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fa112f9589a72edd6c8458764cd65e80a39e6d8c">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6ec0fd956405709a52e4d2d9ef1977fd8e5217ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/798bd9148e4bb5a3e9a6d86ce0c09c656b15e46e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4bece8cb496b529e08bc8b0e270d095366858859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/7ceda895c8748731569ef642c0bb72e15cc06be0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="906fdd57c143ec9adc27a76a697fed1c0cfd6348">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_9d0d815d1e7c0d20802bd0d85e9c769dc5236ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/2ce56fc8cd9b1024367edc4cae3bd3a730ae808b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_27a78aad9f94968094dd6a6ce42a2cf786fac1cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/stetho-1.3.1_093d5bba18b1774566173e3aa10dd42a0b45f3e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/2f9785d098d4de43899da5ad47ea3caae9bd70aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5b65ec1ebc84af3baecfd28954c9e7ff01b937a8">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_0c692b565173b58f63ab6c9052a45c09284ff4ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/0af6c9d32b414188cefad90d64e76b44691af9bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_de9bee23ae9fb994175ad0edb7d43b01ce69b8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/1.3.2/b6dde38349ba9bb5e6ea6320531eae969985dae5/commons-io-1.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/commons-io-1.3.2_fc2ba2b1e174be6307ca83efa079f4586d1ac8dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/1068a081fff6c601a26a3445ac379fb9d536227e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cac4539de2fbfcb1c4c44c55166f0332b92d34b7">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ab7a26821ab8cd9ddff94c9ca990cf8155b8a8ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/01b7f85c18af13fd88dd1f39a9f80c5be7b62446/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_8ad96797aaf4ba32517a53c5d306f81009fda933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/d43614300ab45567fc89be11154deb8e520ee25b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_98e7075dde1120253cdba567e537b368799f10b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/94116aadb3327830ede1727791c8fb14330c4de6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_d5728f2b8b8d019c23d2e7bb698d01c721d2ec38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/2169498ca00dd761358a48dfd6eb2010fb75fb3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_fe1add5b6e797c31d20e51034de1ae0e8d62fa71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/7ce9f45a788bbe313b9578edbecbe5a584a56d9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a0fe6dac08a60786d6619c4b6feb53793816a84c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/a4609ae89e166640176d58cdd8a6cf24532d2af6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="03530f261b6f66dbcae414f12c732bd943f5ba53">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_7d05a1205e1b80c5c1f335f96339dcfee6b81cb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/166d569f7d3584eb38e074c134fd4da07b5cb0f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ceeaf6194e1c21049a1586c55bf9c60b853b6091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-ws-3.4.1_3d17d41aea4e91661d0359b2c3c3da468533eb16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/499234762bf31e106a685538c7820d58266ef9e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec224ad624f39212bacaf5903d989fe066166e7a">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_93a0e0abefd87dc801213943ea520c043e0b0e3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/07f1ff9b7383cc01a6a676e9baba71d131b28924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="68d8ffe33fc5c2feb623b2e216dfc180e7540cd5">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_c742d15c8533d83a5b4ef71a43979f93cc1b4796/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.amplitude/android-sdk/2.9.2/5ff2f760c3bcad9d4e60f1f84aa695321184ebc0/android-sdk-2.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ff2f760c3bcad9d4e60f1f84aa695321184ebc0">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/android-sdk-2.9.2_2845159a974500862582bb1abcb1b56c89e5811e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/12b302b769f5d535355d1477d6c4350a12490da3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="418dca1ee8bac0cc2f78f8f34b594c4d89eec057">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4d82263d2917a082147ef8a8a8e3cde8808ff2ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/6d2fc95eacb7fd3c4704d06594700091fcaecf19/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffde64dbb0fc07c8b9735c6c42a06a36be15ed13">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_978a011d62e27e40e86d1edd6a01bd349a011239/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/40cdaa813da79c93d392c9e805425594b444c7d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_30a10134344c69ae1464e18f44d478d94c0ec5e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/bolts-applinks-1.4.0_632055f0154665f4f616efadf02249596767f14c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/prov/1.53.0.0/72c4892e05c7563fbab0c4ada0187cd879113389/prov-1.53.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72c4892e05c7563fbab0c4ada0187cd879113389">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/prov-1.53.0.0_3a6805aefaeadbd8bd7618f7458a75caa3be12b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/8747af4eec1e57c78f20e03f2f546081eab8425c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="10c32fcf3d0acc4b208fc39f8d2e16b69ef8bd3b">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_0bd27006e432631fcf019011016011cee4986b78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/b098e7d44edb7a4092ecf07bd0d1fbf397b8584d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_240ae62938cf4602a6a527f767e0cff29efcf269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/commons-cli-1.2_de42b18834fa24fcda82d93c30836fa6fbbcf2ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/7b51290616c141f1dab2d30eebc27cba09d563dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6855bb0ace4eb850c15e4aca7eea56cecdedb801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/dev/doingthestreets/android/maven/expolib_v1/com/squareup/okhttp3/okhttp-urlconnection/3.6.0/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae77d4921dcf287b3776baabfbca09b55616ab13">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-urlconnection-3.6.0_ad37cc347fe23ba4da30aabf577d8b93507476fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/d9f5584a71104473b911402ac28301c1776359d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a34a28ae586a32e1a33eeb63378732b473cad2be">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_4b673b47d072f3803311c529cb6433a26ba3f99d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/372c2664bb8db05a6fe241385e50204b8c65bb02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_84455d6ef7c55aa3a9e873c97a2fb81ac6e05c2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/bfa08c13261766152fb55c82b2c9ddcaeabb88df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="13469de5eef4b3c0488c0e4963fef197fc745f8a">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_1bd50f28099cd76965242f8ced894f95dd9adbe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/jackson-core-2.2.3_2aee78cbc08be7bb54b0da9319e67f6fd80dc4af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/696d71555ff6b16c1e3120b06a2530dd6dcf9da1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_efaf28cdcfa6738407755decd6fa3326dbb9cd79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/6234f5f4235f698681299877d391befa3806cd2d/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a30a80d40b875fec941cafdceaf514b74ca6d76">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_ec34dc7d29bd88356c750029092f2f7d64deed1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-3.4.1_b4f94239710975e960f05346dda102bb226bac29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/e283b06604468657010e59f0764dd8c80a78d7ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a567fb794f5155dce36fa27fda7016fc1668a2cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/dev/doingthestreets/android/maven/expolib_v1/com/squareup/okio/okio/1.13.0/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="89890cffce351fec7caf3fdfd4351c7f4b4769b4">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okio-1.13.0_1bccacd1fedfda6f1ee16f2a5a2c791cd140dc7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okio-1.9.0_0f4337dec46e0856993b55fa4304b310d5277721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/6095dda07666ed67809bcecd2ed64e8da8d99aa6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79b01f1eace6ce22c6ffd67000bd6b5c5d2477a9">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_743df7ca53ccdcd42b286605df6411bea3604564/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/0f9af9e98bd493f11f7f16ae2680de2d780d58c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_62be30d3fdf7757af80f380ae8d618fbeb77baf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/24b0930fbccc89249a488aad06e75da413b97511/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_aea24b597910263b2a2c4d06ca50ea736a771493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.segment.analytics.android/analytics/4.3.0/88ab91d4641af4bed4b39aa3fd7cf487b66b9d5e/analytics-4.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88ab91d4641af4bed4b39aa3fd7cf487b66b9d5e">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/analytics-4.3.0_16da9dd35c8a23916b3570ae7ebc44a76a78705a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/3e863dac50a5dd96714d0a11f1176dab6fba235b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_b0bf2f262ac1fdec2b9acaf2c46d06656d08aa48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/aebd88b963b2d2bce3012770442642db0119aefa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_3434b30440e17dcefa631ef4a59587f9d124d607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/commons-codec-1.10_ce4872e80eba2cc282b3568a40f7b2cad47fe255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/1115c5b6d8aaf11df783dbcce733f8cd0542aeaf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c9ef45dcbd082cd63aac09a5e2cd443adb5df837">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_0d52c88f7a56c64b91b45f0eba57778188730399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/okhttp-urlconnection-3.4.1_8f9a45453ba82f9d9ec416f898c0a96d89f0c720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/javax.inject-1_6fad883f52143bcaed1bfa290424b6629509616a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/ac3269531e1fd2e92577e7faba8ff35290284c63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_03b5ea7afda43b54e0612f547d79a26aa69cd364/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/d508968110c3dcd13ad28d12e5901a0aa100b482/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="611605b6b640c1558f9bdea41de8ff837ab68ca8">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_7f5e7e8408ec7843bbb14cfd1513e2048387b118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/ad7197d07cde571b7f623872a10c7ff5550c7c18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9111e38999fee0b16a1ccd057b779f5b08f330e2">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_ce83d9d518855826c49b506724fd714555f03fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/9b40361a6662e25d6162a85455319aaff4e23c1c/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="83d6e98f2b48f3cf1ec0e7c2b3bf2b3d4618f680">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/infer-annotations-4.0_7e11df2b7bd3a2bd4770aa6603812810add32900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/df8ed17b3160371a0865e5d863797f051367340e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_6b4bda5308ed2a34b3389b18c32dbd6b474f0a0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/1159a917c3eb43513503f8b9f0d6c4c97beb8262/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_db3d18eb8227da4d9e60c9d42d0e86f8f3728677/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/269d63a1262889fc9e1044ef9d2bf23d3e150d49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_a154826d39832218888053827044d8d37c62a87d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/6eb50d00d8687dd4f0caaeb39355c00ca24a1cad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_1b0fc45a1ec3f833ca232b6070e3bd493f808097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/joshuadeford/.android/build-cache/194261bf1ffbca92d4acd64d50cefd056b745517/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/joshuadeford/dev/doingthestreets/android/app/build/intermediates/transforms/dex/dev19/debug/folders/1000/10/classes_15d7975d8ed4d7288de60ad411e2d2b95dae1334/classes.dex" />
+    </item>
+
+</items>

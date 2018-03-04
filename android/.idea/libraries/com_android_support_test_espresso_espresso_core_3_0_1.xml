@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.android.support.test.espresso:espresso-core-3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/92a32978d8a6d9e753114e4e39163d57538fdc77/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/92a32978d8a6d9e753114e4e39163d57538fdc77/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

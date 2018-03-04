@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Doing the Streets",
+    "description": "South Congress is an awesome street with an awesome history. You gotta see it!",
+    "slug": "doing-the-streets",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "primaryColor": "#597172",
+    "privacy": "unlisted",
+    "icon": "./icon.png",
+    "splash": {
+      "backgroundColor": "#000000",
+      "image": "./splash.png",
+      "resizeMode": "contain"
+    },
+    "android": {
+      "icon": "./icon-android.png",
+      "package": "com.d4dl.dts",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD6TAyiTkI3nULh6-JhZJqRxJ0S734dw6E"
+        }
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.d4dl.dts",
+      "publishBundlePath": "ios/doing-the-streets/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/doing-the-streets/Supporting/shell-app-manifest.json"
+    }
+  }
+}
